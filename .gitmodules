@@ -1,0 +1,6 @@
+[submodule "react-client"]
+	path = react-client
+	url = https://github.com/sklinov/react-wasm-client.git
+[submodule "wasm"]
+	path = wasm
+	url = https://github.com/sklinov/wasm.git
